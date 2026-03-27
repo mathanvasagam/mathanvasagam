@@ -10,13 +10,13 @@
 
 ## About Me
 
-- passionate in AI/ML devlopment and  intrest in producation based soultion for real world problems.
+  passionate in AI/ML devlopment and  intrest in producation based soultion for real world problems.
 
 <p>
   <a href="mailto:mathanmelavasagam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://linkedin.com/in/mathan-m/">
+  <a href="https://linkedin.com/in/mathan-m/](https://www.linkedin.com/in/mathan-m-1690b4290">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/mathanvasagam">
