@@ -32,17 +32,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,django,html,css,js,mysql,mongodb,docker,aws,git,github,vscode" alt="tools" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mathanvasagam&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mathanvasagam&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathanvasagam&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
 ## GitHub Activity
 
 <p align="center">
